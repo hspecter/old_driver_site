@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://prava.tomsk.ru/blog/2012/12/06/vakansii/</loc>
+        <loc>http://papazz.github.com/blog/2012/12/06/vakansii/</loc>
+        <lastmod>2013-07-22T19:05:00+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://papazz.github.com/blog/2012/12/06/pozdravliaiu/</loc>
+        <lastmod>2013-07-22T19:02:32+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://papazz.github.com/blog/2012/12/06/ochieriednoi-ekzamien/</loc>
         <lastmod>2013-07-18T14:13:08+07:00</lastmod>
     </url>
     <url>
-        <loc>http://prava.tomsk.ru/blog/2012/12/06/pozdravliaiu/</loc>
+        <loc>http://papazz.github.com/404.html</loc>
         <lastmod>2013-07-18T14:13:08+07:00</lastmod>
     </url>
     <url>
-        <loc>http://prava.tomsk.ru/blog/2012/12/06/ochieriednoi-ekzamien/</loc>
+        <loc>http://papazz.github.com/auto-kpp/</loc>
         <lastmod>2013-07-18T14:13:08+07:00</lastmod>
     </url>
     <url>
-        <loc>http://prava.tomsk.ru/404.html</loc>
+        <loc>http://papazz.github.com/blog/archives/</loc>
+        <lastmod>2013-07-22T19:05:00+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://papazz.github.com/contact/</loc>
         <lastmod>2013-07-18T14:13:08+07:00</lastmod>
     </url>
     <url>
-        <loc>http://prava.tomsk.ru/auto-kpp/</loc>
+        <loc>http://papazz.github.com/exam_pass/</loc>
         <lastmod>2013-07-18T14:13:08+07:00</lastmod>
     </url>
     <url>
-        <loc>http://prava.tomsk.ru/blog/archives/</loc>
+        <loc>http://papazz.github.com/</loc>
+        <lastmod>2013-07-22T19:05:00+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://papazz.github.com/info/</loc>
         <lastmod>2013-07-18T14:13:08+07:00</lastmod>
     </url>
     <url>
-        <loc>http://prava.tomsk.ru/contact/</loc>
+        <loc>http://papazz.github.com/learn/</loc>
         <lastmod>2013-07-18T14:13:08+07:00</lastmod>
     </url>
     <url>
-        <loc>http://prava.tomsk.ru/exam_pass/</loc>
+        <loc>http://papazz.github.com/manual-kpp/</loc>
         <lastmod>2013-07-18T14:13:08+07:00</lastmod>
     </url>
     <url>
-        <loc>http://prava.tomsk.ru/</loc>
-        <lastmod>2013-07-18T14:13:08+07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://prava.tomsk.ru/info/</loc>
-        <lastmod>2013-07-18T14:13:08+07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://prava.tomsk.ru/learn/</loc>
-        <lastmod>2013-07-18T14:13:08+07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://prava.tomsk.ru/manual-kpp/</loc>
-        <lastmod>2013-07-18T14:13:08+07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://prava.tomsk.ru/moto/</loc>
+        <loc>http://papazz.github.com/moto/</loc>
         <lastmod>2013-07-18T14:48:03+07:00</lastmod>
     </url>
     <url>
-        <loc>http://prava.tomsk.ru/process-obucheniya-examen/</loc>
+        <loc>http://papazz.github.com/process-obucheniya-examen/</loc>
         <lastmod>2013-07-18T14:13:08+07:00</lastmod>
     </url>
 </urlset>
